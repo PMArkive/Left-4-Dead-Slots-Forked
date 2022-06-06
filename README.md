@@ -8,7 +8,7 @@ https://forums.alliedmods.net/showthread.php?t=333092
 add AutoExecConfig, basically.<br />
 基本上是使其能夠自動設定 cvar，不然老是自動設成預設.
 
-功能與 L4D2ToolZ 一樣.
+功能與 L4D2ToolZ 一樣.<br />
 Cvars:
 sv_maxplayers - max human players that can join your server. -1 to disable and use standart check (range 0 to 18 ).<br />
 sv_removehumanlimit - remove kick for players (only L4D) when they are more than 8 for vs and 4 for coop(0 to disable, 1 to enable).<br />
