@@ -19,3 +19,8 @@ sv_force_unreserved - if you set it to 1 before connection from lobby your serve
 
 - remove L4D2ToolZ plugins (if there is)
 - 該插件不能與 L4D2ToolZ 共存
+
+## Install ##
+
+put l4dslots.smx into \addons\sourcemod\plugins\ folder.
+put l4dslots.txt into \addons\sourcemod\data\ folder.
