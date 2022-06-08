@@ -1,4 +1,4 @@
-# Left-4-Dead-Slots-Forked
+# Left 4 Dead Slots Forked
 
 ## Description ##
 
