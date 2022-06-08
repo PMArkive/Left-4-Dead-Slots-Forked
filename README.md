@@ -23,4 +23,4 @@ sv_force_unreserved - if you set it to 1 before connection from lobby your serve
 ## Install ##
 
 put l4dslots.smx into \addons\sourcemod\plugins\ folder.
-put l4dslots.txt into \addons\sourcemod\data\ folder.
+put l4dslots.txt into \addons\sourcemod\gamedata\ folder.
